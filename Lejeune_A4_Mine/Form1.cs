@@ -21,7 +21,7 @@ namespace Lab5
         {
             Random rand = new Random();
             int coolNumber = rand.Next(min, max);
-            return coolnumber;
+            return coolNumber;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -45,7 +45,7 @@ namespace Lab5
 
             if (txtCode.Text == lblCode.Text)
             {
-                grpChoose.Visible = false;
+                grpChoose.Visible = true;
                 grpLogin.Enabled = false;
 
 
@@ -224,7 +224,7 @@ namespace Lab5
         {
             Random rand = new Random(733);
             lstNumbers.Items.Clear();
-            for (int i = 1000; i < numTotal.Value; i++)
+            for (int i = 0; i < numTotal.Value; i++)
             {
                 lstNumbers.Items.Add(rand.Next(1000, 5000 + 1));
             }
@@ -246,7 +246,7 @@ namespace Lab5
         * Description: Runs through a while loop to add all numbers in list */
         {
             int counter, totalIndex, totalSum;
-            totalIndex = lstNumbers.Items.Count
+            totalIndex = lstNumbers.Items.Count;
             totalSum = 0;
             counter = 0;
 
