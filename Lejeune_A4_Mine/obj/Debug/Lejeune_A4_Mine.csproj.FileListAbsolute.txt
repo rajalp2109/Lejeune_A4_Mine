@@ -1,0 +1,6 @@
+C:\Users\grego\Desktop\LejeuneLab5\Lejeune_A4_Mine\obj\Debug\Lejeune_A4_Mine.csproj.AssemblyReference.cache
+C:\Users\grego\Desktop\LejeuneLab5\Lejeune_A4_Mine\obj\Debug\Lejeune_A4_Mine.csproj.SuggestedBindingRedirects.cache
+C:\Users\grego\Desktop\LejeuneLab5\Lejeune_A4_Mine\obj\Debug\Lab5.Form1.resources
+C:\Users\grego\Desktop\LejeuneLab5\Lejeune_A4_Mine\obj\Debug\Lejeune_A4_Mine.Properties.Resources.resources
+C:\Users\grego\Desktop\LejeuneLab5\Lejeune_A4_Mine\obj\Debug\Lejeune_A4_Mine.csproj.GenerateResource.cache
+C:\Users\grego\Desktop\LejeuneLab5\Lejeune_A4_Mine\obj\Debug\Lejeune_A4_Mine.csproj.CoreCompileInputs.cache
